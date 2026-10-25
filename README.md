@@ -10,13 +10,18 @@
 <img src="https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Developer"/>
 <img src="https://img.shields.io/badge/Status-Always%20Learning-16A085?style=for-the-badge&logo=bookstack&logoColor=white" alt="Always learning"/>
 
+<br/>
+
+<a href="https://github.com/tharungutta?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-6A11CB?style=for-the-badge&logo=github" alt="Explore repositories"/></a>
+<a href="https://www.linkedin.com/in/tharun-gutta-2a24b4251/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+
 </div>
 
 ---
 
 ## ✨ About Me
 
-<img align="right" width="290" src="https://user-images.githubusercontent.com/74038190/216656971-7b7b7b7b-9f1c-4c5a-8f0b-1b8a8c0a6c9d.gif" alt="Coding animation" />
+<img align="right" width="270" src="https://user-images.githubusercontent.com/74038190/216656971-7b7b7b7b-9f1c-4c5a-8f0b-1b8a8c0a6c9d.gif" alt="Coding animation"/>
 
 Hey there! I'm **Tharun Gutta** — an aspiring **Java Full Stack Developer** who enjoys learning by building and improving one project at a time.
 
@@ -53,20 +58,107 @@ Hey there! I'm **Tharun Gutta** — an aspiring **Java Full Stack Developer** wh
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and Visual Studio Code icons"/>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=tharungutta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharungutta&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=tharungutta&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=tharungutta&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
+
+### 🌐 Frontend & Web Applications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>💗 Me Kannamma — Event Planner</h3>
+<a href="https://mekannamma-eventplanner.netlify.app/">
+  <img src="https://placehold.co/600x240/7B2D52/FFFFFF?text=Me+Kannamma+Event+Planner" width="100%" alt="Me Kannamma Event Planner project banner"/>
+</a>
+
+A web experience for an event-planning service, designed to present event information in an attractive, user-friendly way.
+
+**Focus:** Responsive UI · Web design · Event presentation
+
+<a href="https://mekannamma-eventplanner.netlify.app/">🌐 Live Demo</a> ·
+<a href="https://github.com/tharungutta/Me_Kannamma-Event_Planner">💻 Source Code</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🐘 Sri Vinayaka Yuva Sena</h3>
+<a href="https://vinayakayuvasena.netlify.app/">
+  <img src="https://placehold.co/600x240/FF9F43/222222?text=Sri+Vinayaka+Yuva+Sena" width="100%" alt="Sri Vinayaka Yuva Sena project banner"/>
+</a>
+
+A community contribution tracker for organizing member details, monthly collections, payment records, and collection summaries.
+
+**Focus:** Dashboard UI · Monthly tracking · Admin tools
+
+<a href="https://vinayakayuvasena.netlify.app/">🌐 Live Demo</a> ·
+<a href="https://github.com/tharungutta/SRI-VINAYAKA-YUVASENA">💻 Source Code</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🚌 APSRTC — Frontend Project</h3>
+<a href="https://github.com/tharungutta?tab=repositories">
+  <img src="https://placehold.co/600x240/164E63/FFFFFF?text=APSRTC+Web+Interface" width="100%" alt="APSRTC frontend project banner"/>
+</a>
+
+A frontend project inspired by the APSRTC bus transport experience. Explore the repository for the implemented pages and interactions.
+
+**Focus:** Frontend development · Layout · Responsive design
+
+<a href="https://github.com/tharungutta?tab=repositories">💻 Find Project in Repositories</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎂 Birthday Surprise</h3>
+<a href="https://github.com/tharungutta/Birthday_Surprise">
+  <img src="https://placehold.co/600x240/AD1457/FFFFFF?text=Birthday+Surprise" width="100%" alt="Birthday Surprise project banner"/>
+</a>
+
+A personalized birthday website with celebratory visuals and a digital surprise experience.
+
+**Focus:** HTML · CSS · JavaScript · Animations
+
+<a href="https://github.com/tharungutta/Birthday_Surprise">💻 Source Code</a>
+
+</td>
+</tr>
+</table>
+
+### 🧠 Academic & Technical Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <h3>🌿 Detection of Leaf Diseases</h3>
-<a href="https://github.com/tharungutta?tab=repositories">
-  <img src="https://placehold.co/600x240/123524/FFFFFF?text=Leaf+Disease+Detection" width="100%" alt="Leaf disease detection project banner"/>
-</a>
 
 A project exploring plant-leaf disease detection using pretrained deep-learning models.
 
-**Tech used:** Python · Streamlit · TensorFlow/Keras
+**Tech:** Python · Streamlit · TensorFlow/Keras
 
 <a href="https://github.com/tharungutta?tab=repositories">Browse repositories ↗</a>
 
@@ -74,13 +166,10 @@ A project exploring plant-leaf disease detection using pretrained deep-learning 
 <td width="50%" valign="top">
 
 <h3>🛡️ Intrusion Detection System</h3>
-<a href="https://github.com/tharungutta?tab=repositories">
-  <img src="https://placehold.co/600x240/172554/FFFFFF?text=Intrusion+Detection+Web+App" width="100%" alt="Intrusion detection project banner"/>
-</a>
 
 A Flask web app for uploading network-traffic CSV files and viewing model predictions and visualizations.
 
-**Tech used:** Flask · pandas · scikit-learn · HTML/CSS
+**Tech:** Flask · pandas · scikit-learn · HTML/CSS
 
 <a href="https://github.com/tharungutta?tab=repositories">Browse repositories ↗</a>
 
@@ -90,56 +179,39 @@ A Flask web app for uploading network-traffic CSV files and viewing model predic
 <td width="50%" valign="top">
 
 <h3>🦯 Probing Cane — Assistive Blind Stick</h3>
-<a href="https://github.com/tharungutta?tab=repositories">
-  <img src="https://placehold.co/600x240/3B1D5A/FFFFFF?text=Probing+Cane+Assistive+Project" width="100%" alt="Probing cane project banner"/>
-</a>
 
 An assistive-technology project designed to help visually impaired users detect obstacles.
 
-**Tech used:** Arduino UNO · Sensors · Embedded systems
+**Tech:** Arduino UNO · Sensors · Embedded systems
 
 <a href="https://github.com/tharungutta?tab=repositories">Browse repositories ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>📡 Image Transmission</h3>
-<a href="https://github.com/tharungutta?tab=repositories">
-  <img src="https://placehold.co/600x240/0F3D4C/FFFFFF?text=Image+Transmission+%7C+DWT+%7C+OFDM" width="100%" alt="Image transmission project banner"/>
-</a>
+<h3>📡 DWT-Based Image Transmission</h3>
 
-An academic project exploring image transmission, channel estimation, and DWT-based carrier modulation.
+An academic MATLAB project exploring image transmission, wavelet processing, and communication-channel simulation.
 
-**Tech used:** MATLAB · DWT · OFDM
+**Tech:** MATLAB · DWT · Digital communication
 
-<a href="https://github.com/tharungutta?tab=repositories">Browse repositories ↗</a>
+<a href="https://github.com/tharungutta/Major_Project">💻 Source Code</a>
 
 </td>
 </tr>
 </table>
 
-<sub>Project cards currently link to your repository list because direct project URLs were not provided. Replace these with individual repository links when available.</sub>
+<sub>Project summaries are concise overviews. For projects without a direct source-code link, use the repository list to locate the relevant repository and replace the link with its exact URL when available.</sub>
 
-## 📈 GitHub at a Glance
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=tharungutta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharungutta&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=tharungutta&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
+---
 
 ## 🌱 What I'm Working On
 
 - Strengthening Core Java, OOP, and Collections
-- Practicing data structures and problem-solving
+- Practising data structures and problem-solving
 - Improving SQL and database fundamentals
 - Learning Spring Boot for backend development
-- Building stronger full-stack development skills
+- Building responsive frontend projects and stronger full-stack skills
 
 ## 🤝 Let's Connect
 
