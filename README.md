@@ -1,62 +1,95 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,35:243B55,70:6A11CB,100:2575FC&height=230&section=header&text=THARUN%20GUTTA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=JAVA%20FULL%20STACK%20DEVELOPER&descAlignY=59&descSize=19&descColor=ffffff" width="100%" alt="Animated header — Tharun Gutta, Java Full Stack Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080C2C,30:182848,65:6A11CB,100:2575FC&height=230&section=header&text=THARUN%20GUTTA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=JAVA%20FULL%20STACK%20DEVELOPER&descAlignY=59&descSize=18&descColor=E6E8FF" width="100%" alt="Tharun Gutta profile header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2600&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer+%F0%9F%92%BB;Turning+ideas+into+web+applications+%E2%9A%A1;Learning+Spring+Boot+%F0%9F%8C%B1;Build.+Learn.+Improve.+Repeat.+%F0%9F%9A%80" alt="Animated typing text"/>
-
-<br/>
-
-<a href="https://github.com/tharungutta"><img src="https://komarev.com/ghpvc/?username=tharungutta&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" alt="Profile views"/></a>
-<img src="https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Developer"/>
-<img src="https://img.shields.io/badge/Status-Always%20Learning-16A085?style=for-the-badge&logo=bookstack&logoColor=white" alt="Always learning"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=720&lines=Java+Full+Stack+Developer+%F0%9F%92%BB;Turning+ideas+into+web+applications+%E2%9A%A1;Learning+Spring+Boot+%F0%9F%8C%B1;Build.+Learn.+Improve.+Repeat.+%F0%9F%9A%80" alt="Animated introduction"/>
 
 <br/>
 
-<a href="https://github.com/tharungutta?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-6A11CB?style=for-the-badge&logo=github" alt="Explore repositories"/></a>
+<img src="https://komarev.com/ghpvc/?username=tharungutta&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java developer"/>
+<img src="https://img.shields.io/badge/Status-Always%20Learning-10B981?style=for-the-badge&logo=bookstack&logoColor=white" alt="Always learning"/>
+
+<br/><br/>
+
+<a href="https://github.com/tharungutta?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-6D28D9?style=for-the-badge&logo=github" alt="Explore repositories"/></a>
 <a href="https://www.linkedin.com/in/tharun-gutta-2a24b4251/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:guttatharun18@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
 ---
 
-## ✨ About Me
+## 👋 About Me
 
-<img align="right" width="270" src="https://user-images.githubusercontent.com/74038190/216656971-7b7b7b7b-9f1c-4c5a-8f0b-1b8a8c0a6c9d.gif" alt="Coding animation"/>
+<table>
+<tr>
+<td width="62%" valign="middle">
 
-Hey there! I'm **Tharun Gutta** — an aspiring **Java Full Stack Developer** who enjoys learning by building and improving one project at a time.
+Hey! I'm **Tharun Gutta**, an aspiring **Java Full Stack Developer** who enjoys learning by building practical projects and improving them step by step.
 
 - 🎓 **B.Tech in ECE** — SRM Institute of Science and Technology, Ramapuram
 - 🏆 **CGPA:** 9.46/10
-- ☕ Focused on **Java, OOP, Collections, SQL, and web development**
+- ☕ Focusing on **Java, OOP, Collections, SQL, and web development**
 - 🌱 Currently learning **Spring Boot**
 - 📍 Hyderabad, Telangana, India
-- 🎯 Goal: Build reliable, useful, and user-friendly applications
+- 🎯 Interested in building useful, responsive, user-friendly applications
 
-<br clear="right"/>
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/216656971-7b7b7b7b-9f1c-4c5a-8f0b-1b8a8c0a6c9d.gif" width="100%" alt="Coding animation"/>
+
+<em>Build • Learn • Improve • Repeat</em>
+
+</td>
+</tr>
+</table>
 
 ## 🧰 Tech Stack
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Java, JavaScript, HTML and CSS icons"/>
-  <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL and MySQL"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,nextjs,spring,mysql,git,github,vscode&theme=dark" alt="Java, JavaScript, HTML, CSS, Next.js, Spring, MySQL, Git, GitHub and VS Code"/>
 </p>
 
-### 🎨 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs" alt="HTML, CSS, JavaScript and Next.js icons"/>
-</p>
+<table>
+<tr>
+<td align="center" width="33%">
 
-### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,flask,fastapi,mysql" alt="Java, Spring, Flask, FastAPI and MySQL icons"/>
-</p>
-<sub>Spring Boot is currently in my learning journey.</sub>
+**💻 Languages & Web**
 
-### 🔧 Tools I Use
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and Visual Studio Code icons"/>
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+</td>
+<td align="center" width="33%">
+
+**⚙️ Backend & Database**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-Learning-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white"/>
+
+</td>
+<td align="center" width="33%">
+
+**🛠️ Tools**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -64,16 +97,16 @@ Hey there! I'm **Tharun Gutta** — an aspiring **Java Full Stack Developer** wh
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=tharungutta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharungutta&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=tharungutta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharungutta&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=tharungutta&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="72%" src="https://streak-stats.demolab.com?user=tharungutta&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
-<br/>
+<br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=tharungutta&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tharungutta&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
 
 </div>
 
@@ -87,62 +120,82 @@ Hey there! I'm **Tharun Gutta** — an aspiring **Java Full Stack Developer** wh
 <tr>
 <td width="50%" valign="top">
 
-<h3>💗 Me Kannamma — Event Planner</h3>
+<div align="center">
 <a href="https://mekannamma-eventplanner.netlify.app/">
-  <img src="https://placehold.co/600x240/7B2D52/FFFFFF?text=Me+Kannamma+Event+Planner" width="100%" alt="Me Kannamma Event Planner project banner"/>
+<img src="https://placehold.co/640x240/30102F/F9D5E5?text=Me+Kannamma%20%E2%9C%A8%20Event+Planner" width="100%" alt="Me Kannamma Event Planner banner"/>
 </a>
 
-A web experience for an event-planning service, designed to present event information in an attractive, user-friendly way.
+### 💗 Me Kannamma — Event Planner
 
-**Focus:** Responsive UI · Web design · Event presentation
+<sub><b>Responsive website · Event presentation · UI design</b></sub>
+</div>
 
-<a href="https://mekannamma-eventplanner.netlify.app/">🌐 Live Demo</a> ·
-<a href="https://github.com/tharungutta/Me_Kannamma-Event_Planner">💻 Source Code</a>
+A polished web experience for an event-planning service, designed to present event information in an attractive and user-friendly way.
+
+<p align="center">
+<a href="https://mekannamma-eventplanner.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-EC4899?style=for-the-badge&logo=netlify&logoColor=white" alt="Live demo"/></a>
+<a href="https://github.com/tharungutta/Me_Kannamma-Event_Planner"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🐘 Sri Vinayaka Yuva Sena</h3>
+<div align="center">
 <a href="https://vinayakayuvasena.netlify.app/">
-  <img src="https://placehold.co/600x240/FF9F43/222222?text=Sri+Vinayaka+Yuva+Sena" width="100%" alt="Sri Vinayaka Yuva Sena project banner"/>
+<img src="https://placehold.co/640x240/432006/FFE0A3?text=Sri+Vinayaka+Yuva+Sena%20%F0%9F%99%8F" width="100%" alt="Sri Vinayaka Yuva Sena banner"/>
 </a>
 
-A community contribution tracker for organizing member details, monthly collections, payment records, and collection summaries.
+### 🪔 Sri Vinayaka Yuva Sena
 
-**Focus:** Dashboard UI · Monthly tracking · Admin tools
+<sub><b>Community dashboard · Monthly tracking · Admin tools</b></sub>
+</div>
 
-<a href="https://vinayakayuvasena.netlify.app/">🌐 Live Demo</a> ·
-<a href="https://github.com/tharungutta/SRI-VINAYAKA-YUVASENA">💻 Source Code</a>
+A community contribution tracker for member details, monthly collections, payment records, and collection summaries.
+
+<p align="center">
+<a href="https://vinayakayuvasena.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-F97316?style=for-the-badge&logo=netlify&logoColor=white" alt="Live demo"/></a>
+<a href="https://github.com/tharungutta/SRI-VINAYAKA-YUVASENA"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/></a>
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🚌 APSRTC — Frontend Project</h3>
+<div align="center">
 <a href="https://github.com/tharungutta?tab=repositories">
-  <img src="https://placehold.co/600x240/164E63/FFFFFF?text=APSRTC+Web+Interface" width="100%" alt="APSRTC frontend project banner"/>
+<img src="https://placehold.co/640x240/082F49/BAE6FD?text=APSRTC%20%F0%9F%9A%8C%20Bus+Services" width="100%" alt="APSRTC frontend project banner"/>
 </a>
 
-A frontend project inspired by the APSRTC bus transport experience. Explore the repository for the implemented pages and interactions.
+### 🚌 APSRTC — Bus Services UI
 
-**Focus:** Frontend development · Layout · Responsive design
+<sub><b>Frontend project · Responsive layout · Transport interface</b></sub>
+</div>
 
-<a href="https://github.com/tharungutta?tab=repositories">💻 Find Project in Repositories</a>
+A frontend project inspired by the APSRTC bus transport experience, with a focus on clean page structure and responsive presentation.
+
+<p align="center">
+<a href="https://github.com/tharungutta?tab=repositories"><img src="https://img.shields.io/badge/Find_APSRTC_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Find APSRTC repository"/></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🎂 Birthday Surprise</h3>
+<div align="center">
 <a href="https://github.com/tharungutta/Birthday_Surprise">
-  <img src="https://placehold.co/600x240/AD1457/FFFFFF?text=Birthday+Surprise" width="100%" alt="Birthday Surprise project banner"/>
+<img src="https://placehold.co/640x240/500724/FBCFE8?text=Birthday+Surprise%20%F0%9F%8E%82" width="100%" alt="Birthday Surprise banner"/>
 </a>
 
-A personalized birthday website with celebratory visuals and a digital surprise experience.
+### 🎂 Birthday Surprise
 
-**Focus:** HTML · CSS · JavaScript · Animations
+<sub><b>Personalized website · Celebration · Animations</b></sub>
+</div>
 
-<a href="https://github.com/tharungutta/Birthday_Surprise">💻 Source Code</a>
+A personalized birthday website built around celebratory visuals, heartfelt messages, and a digital surprise experience.
+
+<p align="center">
+<a href="https://github.com/tharungutta/Birthday_Surprise"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/></a>
+</p>
 
 </td>
 </tr>
@@ -154,64 +207,64 @@ A personalized birthday website with celebratory visuals and a digital surprise 
 <tr>
 <td width="50%" valign="top">
 
-<h3>🌿 Detection of Leaf Diseases</h3>
+### 🌿 Detection of Leaf Diseases
 
-A project exploring plant-leaf disease detection using pretrained deep-learning models.
+Exploring plant-leaf disease detection using pretrained deep-learning models.
 
-**Tech:** Python · Streamlit · TensorFlow/Keras
+**Tech:** Streamlit · TensorFlow/Keras
 
-<a href="https://github.com/tharungutta?tab=repositories">Browse repositories ↗</a>
+<a href="https://github.com/tharungutta?tab=repositories"><img src="https://img.shields.io/badge/View_Project-166534?style=for-the-badge&logo=github" alt="View project"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🛡️ Intrusion Detection System</h3>
+### 🛡️ Intrusion Detection System
 
 A Flask web app for uploading network-traffic CSV files and viewing model predictions and visualizations.
 
-**Tech:** Flask · pandas · scikit-learn · HTML/CSS
+**Tech:** Flask · pandas · scikit-learn
 
-<a href="https://github.com/tharungutta?tab=repositories">Browse repositories ↗</a>
+<a href="https://github.com/tharungutta?tab=repositories"><img src="https://img.shields.io/badge/View_Project-1D4ED8?style=for-the-badge&logo=github" alt="View project"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🦯 Probing Cane — Assistive Blind Stick</h3>
+### 🦯 Probing Cane — Assistive Blind Stick
 
-An assistive-technology project designed to help visually impaired users detect obstacles.
+An assistive-technology project designed to help visually impaired users detect nearby obstacles.
 
 **Tech:** Arduino UNO · Sensors · Embedded systems
 
-<a href="https://github.com/tharungutta?tab=repositories">Browse repositories ↗</a>
+<a href="https://github.com/tharungutta?tab=repositories"><img src="https://img.shields.io/badge/View_Project-0F766E?style=for-the-badge&logo=github" alt="View project"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>📡 DWT-Based Image Transmission</h3>
+### 📡 DWT-Based Image Transmission
 
 An academic MATLAB project exploring image transmission, wavelet processing, and communication-channel simulation.
 
 **Tech:** MATLAB · DWT · Digital communication
 
-<a href="https://github.com/tharungutta/Major_Project">💻 Source Code</a>
+<a href="https://github.com/tharungutta/Major_Project"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/></a>
 
 </td>
 </tr>
 </table>
 
-<sub>Project summaries are concise overviews. For projects without a direct source-code link, use the repository list to locate the relevant repository and replace the link with its exact URL when available.</sub>
-
 ---
 
-## 🌱 What I'm Working On
+## 🌱 Currently Growing
 
-- Strengthening Core Java, OOP, and Collections
-- Practising data structures and problem-solving
-- Improving SQL and database fundamentals
-- Learning Spring Boot for backend development
-- Building responsive frontend projects and stronger full-stack skills
+- ☕ Strengthening Core Java, OOP, and Collections
+- 🧩 Practising problem-solving and data structures
+- 🗄️ Improving SQL and database fundamentals
+- 🌱 Learning Spring Boot for backend development
+- 🎨 Building responsive, polished frontend experiences
+
+---
 
 ## 🤝 Let's Connect
 
@@ -223,8 +276,8 @@ An academic MATLAB project exploring image transmission, wavelet processing, and
 
 <br/><br/>
 
-*“Great software is built one thoughtful step at a time.”* ✨
+<em>“Great software is built one thoughtful step at a time.”</em> ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,50:6A11CB,100:141E30&height=120&section=footer" width="100%" alt="Animated footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,50:6A11CB,100:080C2C&height=120&section=footer" width="100%" alt="Animated footer"/>
 
 </div>
