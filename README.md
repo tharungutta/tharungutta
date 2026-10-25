@@ -175,7 +175,8 @@ A community contribution tracker for member details, monthly collections, paymen
 A frontend project inspired by the APSRTC bus transport experience, with a focus on clean page structure and responsive presentation.
 
 <p align="center">
-<a href="https://github.com/tharungutta?tab=repositories"><img src="https://img.shields.io/badge/Find_APSRTC_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Find APSRTC repository"/></a>
+<a href="https://apsrtcbus-app.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="APSRTC live demo"/></a>
+<a href="https://github.com/tharungutta?tab=repositories"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="APSRTC source code"/></a>
 </p>
 
 </td>
@@ -213,7 +214,7 @@ Exploring plant-leaf disease detection using pretrained deep-learning models.
 
 **Tech:** Streamlit · TensorFlow/Keras
 
-<a href="https://github.com/tharungutta?tab=repositories"><img src="https://img.shields.io/badge/View_Project-166534?style=for-the-badge&logo=github" alt="View project"/></a>
+<a href="https://github.com/tharungutta/Leaf-Disease-Detection"><img src="https://img.shields.io/badge/View_Project-166534?style=for-the-badge&logo=github" alt="View Leaf Disease Detection repository"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -224,7 +225,7 @@ A Flask web app for uploading network-traffic CSV files and viewing model predic
 
 **Tech:** Flask · pandas · scikit-learn
 
-<a href="https://github.com/tharungutta?tab=repositories"><img src="https://img.shields.io/badge/View_Project-1D4ED8?style=for-the-badge&logo=github" alt="View project"/></a>
+<a href="https://github.com/tharungutta/IDS_WEB_APP"><img src="https://img.shields.io/badge/View_Project-1D4ED8?style=for-the-badge&logo=github" alt="View Intrusion Detection System repository"/></a>
 
 </td>
 </tr>
@@ -237,7 +238,7 @@ An assistive-technology project designed to help visually impaired users detect 
 
 **Tech:** Arduino UNO · Sensors · Embedded systems
 
-<a href="https://github.com/tharungutta?tab=repositories"><img src="https://img.shields.io/badge/View_Project-0F766E?style=for-the-badge&logo=github" alt="View project"/></a>
+<img src="https://img.shields.io/badge/No_Public_Repository-64748B?style=for-the-badge&logo=github" alt="No public repository available"/>
 
 </td>
 <td width="50%" valign="top">
