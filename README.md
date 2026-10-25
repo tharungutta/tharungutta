@@ -1,99 +1,158 @@
 <div align="center">
 
-# Tharun Gutta
-### Java Full Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,35:243B55,70:6A11CB,100:2575FC&height=230&section=header&text=THARUN%20GUTTA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=JAVA%20FULL%20STACK%20DEVELOPER&descAlignY=59&descSize=19&descColor=ffffff" width="100%" alt="Animated header — Tharun Gutta, Java Full Stack Developer"/>
 
-B.Tech in Electronics and Communication Engineering · SRM IST, Ramapuram  
-Hyderabad, Telangana, India
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2600&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer+%F0%9F%92%BB;Turning+ideas+into+web+applications+%E2%9A%A1;Learning+Spring+Boot+%F0%9F%8C%B1;Build.+Learn.+Improve.+Repeat.+%F0%9F%9A%80" alt="Animated typing text"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-tharungutta-181717?style=flat-square&logo=github)](https://github.com/tharungutta)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tharun-gutta-2a24b4251/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guttatharun18@gmail.com)
+<br/>
+
+<a href="https://github.com/tharungutta"><img src="https://komarev.com/ghpvc/?username=tharungutta&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" alt="Profile views"/></a>
+<img src="https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Developer"/>
+<img src="https://img.shields.io/badge/Status-Always%20Learning-16A085?style=for-the-badge&logo=bookstack&logoColor=white" alt="Always learning"/>
 
 </div>
 
 ---
 
-## About Me
+## ✨ About Me
 
-I'm Tharun, an aspiring **Java Full Stack Developer** focused on strengthening my programming fundamentals and building practical applications.
+<img align="right" width="290" src="https://user-images.githubusercontent.com/74038190/216656971-7b7b7b7b-9f1c-4c5a-8f0b-1b8a8c0a6c9d.gif" alt="Coding animation" />
 
-- 🎓 B.Tech in Electronics and Communication Engineering from **SRM Institute of Science and Technology (SRM IST), Ramapuram**.
-- 📚 Academic CGPA: **9.46/10**.
-- ☕ Practicing Java, object-oriented programming, and the Collections Framework.
-- 🗄️ Working with SQL and MySQL.
-- 🌐 Exploring frontend and backend development.
-- 🌱 Currently learning **Spring Boot**.
-- 📍 Based in Hyderabad, Telangana, India.
+Hey there! I'm **Tharun Gutta** — an aspiring **Java Full Stack Developer** who enjoys learning by building and improving one project at a time.
 
-## Skills & Technologies
+- 🎓 **B.Tech in ECE** — SRM Institute of Science and Technology, Ramapuram
+- 🏆 **CGPA:** 9.46/10
+- ☕ Focused on **Java, OOP, Collections, SQL, and web development**
+- 🌱 Currently learning **Spring Boot**
+- 📍 Hyderabad, Telangana, India
+- 🎯 Goal: Build reliable, useful, and user-friendly applications
 
-**Programming languages**
-- Java
-- SQL
-- JavaScript
-- Python
+<br clear="right"/>
 
-**Frontend**
-- HTML
-- CSS
-- Next.js
+## 🧰 Tech Stack
 
-**Backend & databases**
-- Flask
-- FastAPI
-- MySQL
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Java, JavaScript, HTML and CSS icons"/>
+  <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL and MySQL"/>
+</p>
 
-**Tools**
-- Git
-- GitHub
-- Visual Studio Code
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs" alt="HTML, CSS, JavaScript and Next.js icons"/>
+</p>
 
-## Projects
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,flask,fastapi,mysql" alt="Java, Spring, Flask, FastAPI and MySQL icons"/>
+</p>
+<sub>Spring Boot is currently in my learning journey.</sub>
 
-### Resume Matcher
-A web application project with a Next.js frontend and FastAPI backend.
+### 🔧 Tools I Use
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and Visual Studio Code icons"/>
+</p>
 
-**Technologies:** Next.js, FastAPI, Python
+## 🚀 Featured Projects
 
-### Intrusion Detection System (IDS) Web App
-A Flask-based application for uploading network-traffic CSV files and displaying model predictions and visualizations.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Technologies:** Python, Flask, pandas, scikit-learn
+<h3>🌿 Detection of Leaf Diseases</h3>
+<a href="https://github.com/tharungutta?tab=repositories">
+  <img src="https://placehold.co/600x240/123524/FFFFFF?text=Leaf+Disease+Detection" width="100%" alt="Leaf disease detection project banner"/>
+</a>
 
-### Detection of Leaf Diseases
-A project exploring plant-leaf disease detection with pretrained deep-learning models.
+A project exploring plant-leaf disease detection using pretrained deep-learning models.
 
-**Technologies:** Python, Streamlit, TensorFlow/Keras
+**Tech used:** Python · Streamlit · TensorFlow/Keras
 
-### Probing Cane (Assistive Blind Stick)
+<a href="https://github.com/tharungutta?tab=repositories">Browse repositories ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🛡️ Intrusion Detection System</h3>
+<a href="https://github.com/tharungutta?tab=repositories">
+  <img src="https://placehold.co/600x240/172554/FFFFFF?text=Intrusion+Detection+Web+App" width="100%" alt="Intrusion detection project banner"/>
+</a>
+
+A Flask web app for uploading network-traffic CSV files and viewing model predictions and visualizations.
+
+**Tech used:** Flask · pandas · scikit-learn · HTML/CSS
+
+<a href="https://github.com/tharungutta?tab=repositories">Browse repositories ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🦯 Probing Cane — Assistive Blind Stick</h3>
+<a href="https://github.com/tharungutta?tab=repositories">
+  <img src="https://placehold.co/600x240/3B1D5A/FFFFFF?text=Probing+Cane+Assistive+Project" width="100%" alt="Probing cane project banner"/>
+</a>
+
 An assistive-technology project designed to help visually impaired users detect obstacles.
 
-**Technologies:** Arduino UNO, sensors, embedded systems
+**Tech used:** Arduino UNO · Sensors · Embedded systems
 
-> Project repository links can be added here once the direct URLs are available.
+<a href="https://github.com/tharungutta?tab=repositories">Browse repositories ↗</a>
 
-## Current Learning Goals
+</td>
+<td width="50%" valign="top">
 
-- Strengthen Core Java and object-oriented programming
-- Practice data structures and problem-solving
-- Improve SQL and database design skills
-- Learn Spring Boot and build full-stack applications
-- Improve frontend/backend integration
+<h3>📡 Image Transmission</h3>
+<a href="https://github.com/tharungutta?tab=repositories">
+  <img src="https://placehold.co/600x240/0F3D4C/FFFFFF?text=Image+Transmission+%7C+DWT+%7C+OFDM" width="100%" alt="Image transmission project banner"/>
+</a>
 
-## GitHub Overview
+An academic project exploring image transmission, channel estimation, and DWT-based carrier modulation.
+
+**Tech used:** MATLAB · DWT · OFDM
+
+<a href="https://github.com/tharungutta?tab=repositories">Browse repositories ↗</a>
+
+</td>
+</tr>
+</table>
+
+<sub>Project cards currently link to your repository list because direct project URLs were not provided. Replace these with individual repository links when available.</sub>
+
+## 📈 GitHub at a Glance
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tharungutta&show_icons=true&hide_border=true&theme=default" alt="GitHub statistics" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharungutta&layout=compact&hide_border=true&theme=default" alt="Most used languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=tharungutta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharungutta&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=tharungutta&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
----
+## 🌱 What I'm Working On
+
+- Strengthening Core Java, OOP, and Collections
+- Practicing data structures and problem-solving
+- Improving SQL and database fundamentals
+- Learning Spring Boot for backend development
+- Building stronger full-stack development skills
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-*Learning step by step. Building with purpose.*
+<a href="https://github.com/tharungutta"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/tharun-gutta-2a24b4251/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:guttatharun18@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+*“Great software is built one thoughtful step at a time.”* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,50:6A11CB,100:141E30&height=120&section=footer" width="100%" alt="Animated footer"/>
 
 </div>
